@@ -6,3 +6,7 @@ My name is Harshini Reddy, and I am a first-year B.Tech Computer Science and Eng
 Learning c programming
 interested in cloud computing
 Goal: contribute to open source
+
+## Projects
+
+I plan to build a C programming project to improve my problem-solving and programming skills.
